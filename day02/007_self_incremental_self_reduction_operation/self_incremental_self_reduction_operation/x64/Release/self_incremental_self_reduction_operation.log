@@ -1,0 +1,6 @@
+﻿  self_incremental_self_reduction_operation.c
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  self_incremental_self_reduction_operation.vcxproj -> D:\c_code\day02\self_incremental_self_reduction_operation\x64\Release\self_incremental_self_reduction_operation.exe
